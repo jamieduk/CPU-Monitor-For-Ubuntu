@@ -1,0 +1,17 @@
+cpu-monitor.c
+
+
+sudo apt install -y libgtk-3-dev
+
+
+gcc -o cpu-monitor cpu-monitor.c `pkg-config --cflags --libs gtk+-3.0`
+
+
+sudo chmod +x cpu-monitor
+
+
+./cpu-monitor
+
+
+
+

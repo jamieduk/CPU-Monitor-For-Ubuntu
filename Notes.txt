@@ -1,5 +1,7 @@
 cpu-monitor.c
 
+https://github.com/jamieduk/CPU-Monitor-For-Ubuntu
+
 
 sudo apt install -y libgtk-3-dev
 
